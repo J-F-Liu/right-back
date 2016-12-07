@@ -6,3 +6,5 @@ authors = ["Junfeng Liu <china.liujunfeng@gmail.com>"]
 [dependencies]
 hyper = "0.9.12"
 clap = "2.19.1"
+maud = "0.14.0"
+maud_macros = "0.14.0"
